@@ -15,6 +15,6 @@ Email: atkindavidhyatt@arizona.edu</p>
 
 **Name of Pitch Presenter:**
 
-**Name of Challenge: Random number generagion using boson sampling**
+**Name of Challenge: Random number generagion using boson sampling (ORCA Computing)**
 
 **Hack Solution Details:**
