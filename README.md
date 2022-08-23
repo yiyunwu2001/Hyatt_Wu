@@ -19,7 +19,7 @@ Email: atkindavidhyatt@arizona.edu</p>
 
 **Hack Solution Details:**<br>
 <p><em><strong>Overview of Solution</strong></em></p>
-<p>To simulate a boson sampling QRNG, this team used the Perceval package and consulted their [webpage on boson sampling(https://perceval.quandela.net/docs/notebooks/Boson%20Sampling.html). Using the sample code as a guide, we defined 14 photons at the input and 60 modes, simulated a boson sampling circuit,and saved 2 output samples. We then performed Von-Neuman post processing using the 2 samples to get a final string, which we saved into a .txt file. Iterating this process allowed us to generate a sizable amount of random bits.</p>
+<p>To simulate a boson sampling QRNG, this team used the Perceval package and consulted their [webpage on boson sampling (https://perceval.quandela.net/docs/notebooks/Boson%20Sampling.html). Using the sample code as a guide, we defined 14 photons at the input and 60 modes, simulated a boson sampling circuit,and saved 2 output samples. We then performed Von-Neuman post processing using the 2 samples to get a final string, which we saved into a .txt file. Iterating this process allowed us to generate a sizable amount of random bits.</p>
 <img width="400" alt="Screen Shot 2022-08-23 at 12 06 13 PM" src="https://user-images.githubusercontent.com/98360062/186245707-12d1cc5f-c5e0-4e05-aada-ecc729a82778.png">
 
 <p><em><strong>NIST SP 800-22 (Statistical Test Suite for Random and Pseudorandom Number Generators)</strong></em></p>
@@ -27,7 +27,7 @@ Email: atkindavidhyatt@arizona.edu</p>
 <img width="400" alt="Screen Shot 2022-08-23 at 4 07 46 AM" src="https://user-images.githubusercontent.com/98360062/186245826-7a0d8e09-9291-413a-85f9-700d92205c3a.png">
 <p>In the screenshot of the test results below, the proportion refers to the fraction of bitstreams that passed a particular test. Stars indicate unsuccessful tests that did not produce reliable or interpretable results.</p>
 <img width="400" alt="Screen Shot 2022-08-23 at 12 11 53 PM" src="https://user-images.githubusercontent.com/98360062/186245512-947a1468-a69b-4d64-90ca-e067e4622405.png">
-<p>Please see the ["finalAnalysisReport.txt"(https://github.com/yiyunwu2001/Hyatt_Wu/blob/main/finalAnalysisReport.txt) file for the full results from the NIST test package.</p>
+<p>Please see the "finalAnalysisReport.txt" (https://github.com/yiyunwu2001/Hyatt_Wu/blob/main/finalAnalysisReport.txt) file for the full results from the NIST test package.</p>
 
 <p><em><strong>Bit Rate in bps (bits per second):</strong></em></p>
 <p>The bit rate for our boson sampling RNG was found by timing the execution of the code block responsible for taking 2 samples and performing Von-Neuman post processing.</p>
