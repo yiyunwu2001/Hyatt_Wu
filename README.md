@@ -29,7 +29,7 @@ Email: atkindavidhyatt@arizona.edu</p>
 <img width="400" alt="Screen Shot 2022-08-23 at 12 11 53 PM" src="https://user-images.githubusercontent.com/98360062/186245512-947a1468-a69b-4d64-90ca-e067e4622405.png">
 <p>Please see the "finalAnalysisReport.txt" (https://github.com/yiyunwu2001/Hyatt_Wu/blob/main/finalAnalysisReport.txt) file for the full results from the NIST test package.</p>
 
-<p><em><strong>Bit Rate in bps (bits per second):</strong></em></p>
+<p><em><strong>Bit Rate in bps (bits per second)</strong></em></p>
 <p>The bit rate for our boson sampling RNG was found by timing the execution of the code block responsible for taking 2 samples and performing Von-Neuman post processing.</p>
 <img width="400" alt="Screen Shot 2022-08-23 at 11 39 29 AM" src="https://user-images.githubusercontent.com/98360062/186246119-6d3e8a31-74d5-4429-827c-c4c954f49475.png">
 <p>The table below shows the bit rates we found by repeatedly generating 10000 bits with our RNG. The average, maximum, and minimum bit rates found are displayed below. </p>
