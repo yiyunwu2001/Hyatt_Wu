@@ -18,7 +18,7 @@ Email: atkindavidhyatt@arizona.edu</p>
 **Name of Challenge: Random number generation using boson sampling (ORCA Computing)**
 
 **Hack Solution Details:**<br>
-<p><em><strong>Overview of Solution</strong></em></p>
+<p><em><strong>Overview of RNG Solution</strong></em></p>
 <p>To simulate a boson sampling QRNG, this team used the Perceval package and consulted their webpage on boson sampling (https://perceval.quandela.net/docs/notebooks/Boson%20Sampling.html). Using the sample code as a guide, we defined 14 photons at the input and 60 modes, simulated a boson sampling circuit,and saved 2 output samples. We then performed Von-Neuman post processing using the 2 samples to get a final string, which we saved into a .txt file. Iterating this process allowed us to generate a sizable amount of random bits.</p>
 <img width="400" alt="Screen Shot 2022-08-23 at 12 06 13 PM" src="https://user-images.githubusercontent.com/98360062/186245707-12d1cc5f-c5e0-4e05-aada-ecc729a82778.png">
 
