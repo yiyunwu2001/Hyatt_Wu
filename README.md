@@ -20,5 +20,5 @@ Email: atkindavidhyatt@arizona.edu</p>
 **Hack Solution Details:**
 
 Bit Rate in bps (bits per second)
-The bit rate for our boson sampling RNG was found by timing the execution of the code block responsible for taking 2 samples and performing von-Neuman post processing.
+The bit rate for our boson sampling RNG was found by timing the execution of the code block responsible for taking 2 samples and performing von-Neuman post processing. <br>
 <img width="239" alt="image" src="https://user-images.githubusercontent.com/98360062/186239903-d5f560cf-44b0-47dc-a69e-68eb701d245e.png">
