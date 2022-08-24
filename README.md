@@ -51,3 +51,7 @@ Email: atkindh@gmail.com</p>
 
 <p><em><strong>Scope</strong></em></p>
 <p>Of course this technique wouldnt be very useful if we limit ourselves to measly one dimentional integrals for which we have much more powerful tools to tackle.
+  
+**Sources Consulted:**
+https://github.com/terrillmoore/NIST-Statistical-Test-Suite<br>
+https://perceval.quandela.net/docs/notebooks/Boson%20Sampling.html<br>
