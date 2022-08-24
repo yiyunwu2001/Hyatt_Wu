@@ -19,7 +19,7 @@ Email: atkindh@gmail.com</p>
 
 **Hack Solution Details:**<br>
 <p><em><strong>Boson Sampling for the Evaluation of Integrals: Project Overview</strong></em></p>
-In this hackathon project, a boson sampler is used to generate random numbers to solve definite integrals using Monte Carlo sampling. For time and simplicity, this method is demonstrated on two dimentional functions. Although the algorithm presented only works for two dimentional functions, higher order integrals can be evaluated by similar methods.</p>
+In this hackathon project, a boson sampler is used to generate random numbers to solve definite integrals using Monte Carlo sampling. For time and simplicity, this method is demonstrated on one dimentional functions. Although the algorithm presented only works for one dimentional functions, higher order integrals can be evaluated by similar methods.</p>
 
 <p><em><strong>Overview of RNG Solution</strong></em></p>
 <p>To simulate a boson sampling QRNG, this team used the Perceval package and consulted their webpage on boson sampling (https://perceval.quandela.net/docs/notebooks/Boson%20Sampling.html). Using the sample code as a guide, we defined 14 photons at the input and 60 modes, simulated a boson sampling circuit, and took 2 output samples. We then performed Von-Neuman post processing using the 2 samples to get a final string, which we saved into a .txt file. Iterating this process allowed us to generate a sizable amount of random bits.</p>
