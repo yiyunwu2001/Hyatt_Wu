@@ -10,10 +10,10 @@ Email: yiyunwu@arizona.edu</p>
 
 **Team Member 2: Atkin Hyatt**<br>
 <p>Discord ID:<br>
-GitHub ID:<br>
-Email: atkindavidhyatt@arizona.edu</p>
+GitHub ID: atkindh<br>
+Email: atkindh@gmail.com</p>
 
-**Name of Pitch Presenter:**
+**Name of Pitch Presenter: Atkin Hyatt**
 
 **Name of Challenge: Random number generation using boson sampling (ORCA Computing)**
 
@@ -34,3 +34,6 @@ Email: atkindavidhyatt@arizona.edu</p>
 <img width="400" alt="Screen Shot 2022-08-23 at 11 39 29 AM" src="https://user-images.githubusercontent.com/98360062/186246119-6d3e8a31-74d5-4429-827c-c4c954f49475.png">
 <p>The table below shows the bit rates we found by repeatedly generating 10000 bits with our RNG. The average, maximum, and minimum bit rates found are displayed below. </p>
 <img width="239" alt="image" src="https://user-images.githubusercontent.com/98360062/186239903-d5f560cf-44b0-47dc-a69e-68eb701d245e.png">
+
+<p><em><strong>Application of Boson Sampling: Monte Carlo Algorithms</strong></em></p>
+<p>Monte Carlo algorthims are a class of techniques which involve random sampling to numberically obtain results. Monte Carlo methods are typically employed when systems are too complex for deterministic algorithms to handle. Although computationally simple, Monte Carlo algorithms rely on vast quantities of randomly generated numbers. Classical random number generators lack the ability to generate truly random numbers, revealing certain correlations and non-randomness given a large enough set. This is where a quantum random number generator (QRNG) with quantum advantage can come to the rescue. Not only does a QRNG produce truly random numbers, it also has the ability to produce them faster than their classical counterparts.
