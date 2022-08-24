@@ -62,3 +62,4 @@ Integration is a natural part of many processes in nature, be it classical or qu
 **Sources Consulted:**<br>
 https://github.com/terrillmoore/NIST-Statistical-Test-Suite<br>
 https://perceval.quandela.net/docs/notebooks/Boson%20Sampling.html<br>
+https://en.wikipedia.org/wiki/Monte_Carlo_method<br>
