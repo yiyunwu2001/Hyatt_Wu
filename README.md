@@ -48,3 +48,6 @@ Email: atkindh@gmail.com</p>
 <p align="center">
 <img width="418" alt="Screen Shot 2022-08-23 at 7 40 01 PM" src="https://user-images.githubusercontent.com/110840448/186306921-fe3d1195-bea0-487c-a129-eb6315411905.png"></p>
 <p>In the example above, we randomly sample 1000 points and count about 339 landed underneith the curve. Our random numbers go from x = -1 to x = 1 and y = 0 to y = 1, meaning the integral of this function over the given interval is approximately 0.678, only 1.7% off from the actual value of 2/3.
+
+<p><em><strong>Scope</strong></em></p>
+<p>Of course this technique wouldnt be very useful if we limit ourselves to measly one dimentional integrals for which we have much more powerful tools to tackle.
