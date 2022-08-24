@@ -57,10 +57,8 @@ Integration is a natural part of many processes in nature, be it classical or qu
 
 <p><em><strong>Scope</strong></em></p>
 <p>Of course this technique wouldn't be very useful if we limit ourselves to measly one dimentional integrals for which we have much more powerful tools to tackle. The algorithm can easily be extended into a higher dimentions by sampling additional random number vectors, with one vector for each variable in the expression y = f(x1,x2,x3,...). The Monte Carlo integration method is inefficient for lower order integrals but is far less complex than other deterministic methods for computing higher order integrations. The Riemann sum method, for example, requires one summation for each independent variable in a multivariable function, a task which takes polynomial time. Monte Carlo integration, on the other hand, only requires the generation of additional random number vectors, a proceedure which increases linearly in time.</p>
-  
-<p><em><strong>Next Steps</strong></em></p>
 
-  
+
 **Sources Consulted:**<br>
 https://github.com/terrillmoore/NIST-Statistical-Test-Suite<br>
 https://perceval.quandela.net/docs/notebooks/Boson%20Sampling.html<br>
